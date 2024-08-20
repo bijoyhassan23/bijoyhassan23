@@ -8,8 +8,6 @@ Skills: PHP / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bijoyhassan23)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bijoyhassan23&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bijoyhassan23)  
 
 [![bijoyhassan23's GitHub | Languages Over Time](https://stats.quira.sh/bijoyhassan23/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bijoyhassan23)
