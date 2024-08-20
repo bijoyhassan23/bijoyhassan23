@@ -5,7 +5,10 @@ I am a project manager and developer specializing in WordPress and Webflow. I le
 Skills: PHP / JS / HTML / CSS
 
 ☕  Connect with me! <br>
-<a href="https://bijoy.dev/"><img height="32" width="32" src="https://bijoy.dev/wp-content/uploads/2023/12/siteicon.png" /></a> <a href="https://facebook.com/bijoyhassan23"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://facebook.com/bijoyhassan23"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://facebook.com/bijoyhassan23"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://facebook.com/bijoyhassan23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/bijoyhassan23"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 
