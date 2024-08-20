@@ -17,6 +17,6 @@ Skills: PHP / JS / HTML / CSS
 
 #### Things I code with
 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 [![bijoyhassan23's GitHub | Languages Over Time](https://stats.quira.sh/bijoyhassan23/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bijoyhassan23)
