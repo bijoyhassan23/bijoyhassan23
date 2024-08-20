@@ -11,7 +11,7 @@ Skills: PHP / JS / HTML / CSS
 <a href="https://www.linkedin.com/in/bijoyhassan23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bijoyhassan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-❤️️ I enjoy coding and learning new things \n
+❤️️ I enjoy coding and learning new things <br>
 💻 Most used line of code console.log("hello world")
 
 
