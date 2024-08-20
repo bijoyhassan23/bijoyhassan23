@@ -4,6 +4,7 @@ I am a project manager and developer specializing in WordPress and Webflow. I le
 
 Skills: PHP / JS / HTML / CSS
 
+☕  Connect with me!
 <a href="https://bijoy.dev/"><img height="32" width="32" src="https://bijoy.dev/wp-content/uploads/2023/12/siteicon.png" /></a> <a href="https://linkedin.com/in/bijoyhassan23"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" /></a>
 
 
