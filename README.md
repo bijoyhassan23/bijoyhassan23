@@ -12,7 +12,7 @@ Skills: PHP / JS / HTML / CSS
 <a href="mailto:bijoyhassan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ❤️️ I enjoy coding and learning new things <br>
-💻 Most used line of code console.log("hello world")
+💻 Most used line of code `console.log("hello world")`
 
 
 
