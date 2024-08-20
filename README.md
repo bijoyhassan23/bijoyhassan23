@@ -14,6 +14,7 @@ Skills: PHP / JS / HTML / CSS
 ❤️️ I enjoy coding and learning new things <br>
 💻 Most used line of code `console.log("hello world")` <br>
 📧 How to reach me: bijoyhassan23@gmail.com <br>
+📝 My portfolio: https://bijoy.dev/
 
 #### Things I code with
 
