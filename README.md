@@ -4,7 +4,7 @@ I am a project manager and developer specializing in WordPress and Webflow. I le
 
 Skills: PHP / JS / HTML / CSS
 
-<ul>
+<ul style="display: flex;list-style: none;">
         <li>
             <a href="https://linkedin.com/in/bijoyhassan23"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" /></a>
         </li>
