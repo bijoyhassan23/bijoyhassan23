@@ -12,3 +12,4 @@ Skills: PHP / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bijoyhassan23)  
 
+[![bijoyhassan23's GitHub | Languages Over Time](https://stats.quira.sh/bijoyhassan23/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bijoyhassan23)
