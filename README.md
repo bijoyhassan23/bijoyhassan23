@@ -12,6 +12,12 @@ Skills: PHP / JS / HTML / CSS
 <a href="mailto:bijoyhassan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
+♥️  I enjoy programming and sharing knowledge
+💻  Most used line of code console.log("hello world")
+🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.
+📧  How to reach me: sayhitorainmaker@gmail.com.
+⚡  Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+
 
 
 [![bijoyhassan23's GitHub | Languages Over Time](https://stats.quira.sh/bijoyhassan23/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bijoyhassan23)
