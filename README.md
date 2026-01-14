@@ -2,7 +2,7 @@
 ### 🚀 WordPress & Webflow Developer | Project Manager
 
 I’m a **Project Manager and Full-Stack Web Developer** specializing in **WordPress and Webflow**.  
-I lead digital projects end-to-end — from planning and development to delivery — ensuring **high-quality results, clear communication, and long-term client satisfaction**.
+I lead digital projects end-to-end from planning and development to delivery ensuring **high-quality results, clear communication, and long-term client satisfaction**.
 
 As a **Key Account Manager**, I focus on building strong client relationships, translating business needs into technical solutions, and delivering projects that drive repeat business.  
 I enjoy learning new technologies, solving real-world problems, and collaborating with teams to build impactful digital products.
