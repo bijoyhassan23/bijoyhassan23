@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Bijoy Hassan
+## 👋 Hi, I’m Bijoy
 ### 🚀 WordPress & Webflow Developer | Plugin & Theme Developer | Project Manager
 
 I’m a **Project Manager and Full-Stack Web Developer** specializing in **WordPress, Webflow, and Custom Plugin/Theme Development**.  
