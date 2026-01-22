@@ -12,7 +12,7 @@ I enjoy learning new technologies, solving real-world problems, and collaboratin
 ### 🛠️ Tech Stack & Skills
 
 **Core Skills:**  
-WordPress • Webflow • PHP • Python • C++ • JavaScript • GSAP • React • HTML • CSS • Tailwind
+WordPress • Webflow • Framer • PHP • Python • C++ • JavaScript • GSAP • React • HTML • CSS • Tailwind
 
 ---
 
@@ -24,19 +24,13 @@ WordPress • Webflow • PHP • Python • C++ • JavaScript • GSAP • Rea
 
 ### 🧩 CMS & Tools
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" /><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /><img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" /><img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" /><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /><img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" /><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /><img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" />
 
 ---
 
 ### �️ Development Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /><img src="https://img.shields.io/badge/ClickUp-7B00FF?style=for-the-badge&logo=clickup&logoColor=white" /><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
----
-
-### 🤖 AI Assistants
-
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Claude-d9b78e?style=for-the-badge&logo=anthropic&logoColor=black" /><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /><img src="https://img.shields.io/badge/Lovable-FF0000?style=for-the-badge&logo=heart&logoColor=white" />
 
 ---
 
