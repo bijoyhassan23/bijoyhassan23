@@ -63,7 +63,7 @@ WordPress • Webflow • Framer • PHP • Python • C++ • JavaScript • G
 - ❤️ Love coding & learning new tech  
 - 💻 Most used line of code: `console.log("hello world")`  
 - 📧 Email: **bijoyhassan23@gmail.com**  
-- 📝 Portfolio: **https://bijoy.dev**
+- 📝 Portfolio: **https://bijoydev.vercel.app**
 
 ---
 
